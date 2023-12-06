@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MaseratiTCC.View.Estabelecimentos.JessicaView"
+             NavigationPage.HasNavigationBar="False">
+
+
+    <ContentPage.Background>
+        <RadialGradientBrush >
+            <GradientStopCollection>
+                <GradientStop Color="#0f9be8" Offset="0.0" />
+                <GradientStop Color="#544ba0" Offset="1.0" />
+            </GradientStopCollection>
+        </RadialGradientBrush>
+    </ContentPage.Background>
+
+    <Grid Margin="0,20,0,0">
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+            <Label Text="Jessica Brune" TextColor="White" FontFamily="BreeSerif-Regular" FontSize="40" FontAttributes="None" HorizontalOptions="Center" />
+           
+            
+            <Label Text="Localização" TextColor="White" FontSize="20" FontAttributes="Italic" HorizontalOptions="CenterAndExpand" Margin="0,30,0,0"/>
+
+            <ImageButton Source="gps.png" WidthRequest="100" HeightRequest="100" Margin="20"/>
+
+            <Label Text="Av. Ramiz Galvão, 1082, Jardim Brasil, São Paulo-SP, 02223-001" TextColor="White" WidthRequest="200" HorizontalOptions="CenterAndExpand"/>
+            <Label Text="Sobre Nós" TextColor="White" FontSize="Title" FontAttributes="Bold" HorizontalOptions="Center" Margin="0,50,0,0"/>
+           
+            <Label Text="A Jessica Brune é especializada em serviços profissionais de cuidado das unhas e mãos, oferecendo tratamentos únicos e inovadores radiantes. Venha experimentar o toque mágico da Jessica Brune e transforme suas unhas em verdadeiras obras de arte!" 
+                   TextColor="White" HorizontalOptions="CenterAndExpand" LineHeight="1.2" FontSize="Subtitle" WidthRequest="350" FontAttributes="Italic" Margin="30,30,0,0"/>
+
+
+
+
+
+
+
+
+
+
+
+            <Button Text="Serviços"
+                x:Name="btnServicos"
+                Clicked="btnServicos_Clicked"
+                TextColor="Black"
+                BackgroundColor="LightSteelBlue"
+                FontSize="Medium"
+                FontAttributes="Bold"
+                CornerRadius="20"
+                WidthRequest="200"
+                VerticalOptions="EndAndExpand"
+                Margin="0,0,0,90"
+                />
+        </StackLayout>
+        
+    </Grid>
+
+</ContentPage>
+    

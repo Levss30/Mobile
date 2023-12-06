@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MaseratiTCC.View.Perfil.PerfilEstabelecimento"
+             Title="PerfilEstabelecimento"
+             NavigationPage.HasNavigationBar="False"
+             >
+    
+    <ContentPage.Background>
+        <RadialGradientBrush>
+            <GradientStopCollection>
+                <GradientStop Color="#0f9be8" Offset="0.0"/>
+                <GradientStop Color="#544ba0" Offset="1.0"/>
+
+            </GradientStopCollection>
+        </RadialGradientBrush>
+    </ContentPage.Background>
+
+
+    <StackLayout  Margin="16"
+                Padding="16">
+        <ImageButton x:Name="profileImageButton" Source="foto.png" Aspect="AspectFill" WidthRequest="100" HeightRequest="100" CornerRadius="35" Margin="25,0,0,0" />
+
+        <Button Text="Alterar foto"
+        Clicked="OnAlterarFotoClicked"
+        Margin="25,0,0,0"
+        FontSize="15"
+        FontAttributes="Bold"
+        BackgroundColor="Transparent"
+        TextColor="White"
+        HorizontalOptions="Center">
+        </Button>
+        <StackLayout>
+            <Label Text="Descrição: " TextColor="White" FontSize="Subtitle" FontAttributes="Italic" HorizontalOptions="Center" Margin="10,50,0,0" Padding="10,0,10,0"/>
+            <Frame HeightRequest="40" CornerRadius="25" Padding="30,0,0,0" Margin="0,10,0,10">
+                <HorizontalStackLayout HeightRequest="45">
+                    <Entry Placeholder="Altere a descrição do seu estabelcimento" x:Name="txtDescricao" WidthRequest="265" VerticalOptions="Center"  HorizontalTextAlignment="Center" IsEnabled="False" />
+                    <Image Source="Lapis.png" WidthRequest="24" HeightRequest="24" VerticalOptions="Center" HorizontalOptions="EndAndExpand">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="OnDescricaoImageTapped"/>
+                        </Image.GestureRecognizers>
+                    </Image>
+                </HorizontalStackLayout>
+            </Frame>
+        </StackLayout>
+        <StackLayout>
+            <Label Text="Cep: " TextColor="White" FontSize="Subtitle" FontAttributes="Italic" HorizontalOptions="Center" Margin="10,10,0,0" Padding="10,0,10,0"/>
+            <Frame HeightRequest="40" CornerRadius="25" Padding="30,0,0,0" Margin="0,10,0,10">
+                <HorizontalStackLayout HeightRequest="45">
+                    <Entry Placeholder="99999-999" x:Name="txtCep" WidthRequest="265" VerticalOptions="Center"  HorizontalTextAlignment="Center" IsEnabled="False" />
+                    <Image Source="Lapis.png" WidthRequest="24" HeightRequest="24" VerticalOptions="Center" HorizontalOptions="EndAndExpand">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="OnCepImageTapped"/>
+                        </Image.GestureRecognizers>
+                    </Image>
+                </HorizontalStackLayout>
+            </Frame>
+        </StackLayout>
+        <StackLayout>
+            <Label Text="Endereço: " TextColor="White" FontSize="Subtitle" FontAttributes="Italic" HorizontalOptions="Center" Margin="10,30,0,0" Padding="10,0,10,0"/>
+            <Frame HeightRequest="40" CornerRadius="25" Padding="30,0,0,0" Margin="0,10,0,10">
+                <HorizontalStackLayout HeightRequest="45">
+                    <Entry Placeholder="Rua Exemplo" x:Name="txtExemplo" WidthRequest="265" VerticalOptions="Center"  HorizontalTextAlignment="Center" IsEnabled="False" />
+                    <Image Source="Lapis.png" WidthRequest="24" HeightRequest="24" VerticalOptions="Center" HorizontalOptions="EndAndExpand">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="OnEnderecoImageTapped"/>
+                        </Image.GestureRecognizers>
+                    </Image>
+                </HorizontalStackLayout>
+            </Frame>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <StackLayout>
+                <Label Text="Número:" TextColor="White" Padding="5" FontSize="Subtitle" />
+                <Frame BackgroundColor="White" CornerRadius="10" WidthRequest="120" Padding="0,0,0,0" Margin="0,0,10,0">
+                    <Entry Placeholder="99" x:Name="txNumero" PlaceholderColor="Gray" Text=""></Entry>
+                </Frame>
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Complemento:" TextColor="White" Padding="5" FontSize="Subtitle" Margin="80,0,0,0" />
+                <Frame BackgroundColor="White" CornerRadius="10" WidthRequest="120" Padding="0,0,0,0" Margin="80,0,0,0">
+                    <Entry Placeholder="Casa 99" x:Name="txtComplemento" PlaceholderColor="Gray" Text=""></Entry>
+                </Frame>
+            </StackLayout>
+        </StackLayout>
+
+
+        <Button Text="Sair" 
+                x:Name="btnSair" 
+                Clicked="btnSair_Clicked"
+                TextColor="Black"
+                BackgroundColor="LightSteelBlue"
+                FontSize="Medium"
+                CornerRadius="50"
+                Margin="30,150,30,0"
+                FontAttributes="Bold"
+        ></Button>
+
+    </StackLayout>
+</ContentPage>

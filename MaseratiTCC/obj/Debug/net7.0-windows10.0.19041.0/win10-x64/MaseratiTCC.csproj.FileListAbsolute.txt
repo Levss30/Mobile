@@ -1,0 +1,620 @@
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.exe
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.deps.json
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.runtimeconfig.json
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.pdb
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1323.51816.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.csproj.AssemblyReference.cache
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.AssemblyInfoInputs.cache
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.AssemblyInfo.cs
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.csproj.CoreCompileInputs.cache
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.csproj.CopyComplete
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\MaseratiTCC.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.pdb
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.genruntimeconfig.cache
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\MaseratiTCC.dll
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\Coisas TCC\TccMobileAtual\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.csproj.AssemblyReference.cache
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.exe
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.deps.json
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.runtimeconfig.json
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.pdb
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.Core.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Syncfusion.Licensing.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Syncfusion.Maui.Calendar.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Syncfusion.Maui.Core.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\XCalendar.Core.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\XCalendar.Maui.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.523.17405.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\BreeSerif-Regular.ttf
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\agatha.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\barbearia.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\cadeado.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\casa.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\embreve.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\estrela.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\estrelan.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\estrela_meia.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\gps.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\jessica.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\lapis.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\manicure.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\sair.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\salao.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\setabaixo.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\setadireita.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\setaesquerda.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\setaprabaixo1.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\setaprabaixo2.scale-100.png
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.AssemblyInfoInputs.cache
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.AssemblyInfo.cs
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.csproj.CoreCompileInputs.cache
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.csproj.CopyComplete
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\MaseratiTCC.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.pdb
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MaseratiTCC.genruntimeconfig.cache
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\MaseratiTCC.dll
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\Escola\mobilequasefinalizado\MaseratiTCC\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt

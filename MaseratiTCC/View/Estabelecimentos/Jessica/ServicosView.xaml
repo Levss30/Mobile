@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MaseratiTCC.View.Estabelecimentos.Jessica.ServicosView"
+             NavigationPage.HasNavigationBar="False"
+             xmlns:control="clr-namespace:Syncfusion.Maui.Calendar;assembly=Syncfusion.Maui.Calendar"
+             >
+
+
+    <ContentPage.Background>
+        <RadialGradientBrush >
+            <GradientStopCollection>
+                <GradientStop Color="#0f9be8" Offset="0.0" />
+                <GradientStop Color="#544ba0" Offset="1.0" />
+            </GradientStopCollection>
+        </RadialGradientBrush>
+    </ContentPage.Background>
+
+    <Grid>
+        <StackLayout>
+            <Label Text="Selecione o tipo de serviço, data e hora" TextColor="White" HorizontalOptions="CenterAndExpand" FontAttributes="Bold" FontSize="20" WidthRequest="200" Margin="25,0,0,0" />
+
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Image Source="setaprabaixo1.png" WidthRequest="40" HeightRequest="40" Margin="80,20,10,0" HorizontalOptions="Start" />
+                <Image Source="setaprabaixo2.png" WidthRequest="40" HeightRequest="40" Margin="10,20,-120,0" HorizontalOptions="End" />
+            </Grid>
+
+            <Frame BackgroundColor="White" CornerRadius="15" Padding="0,0,0,0" Margin="30,80,30,30">
+                <StackLayout Orientation="Horizontal" HorizontalOptions="End">
+                    <Picker x:Name="picker1" Title="--Serviços--" HorizontalTextAlignment="Center" WidthRequest="140" HeightRequest="40" Margin="0,5,60,0" ItemsSource="{Binding ListaOpcaoServ}" ItemDisplayBinding="{Binding Descricao}" SelectedItem="{Binding TipoOrdenarSelecionado}"/>
+                    <ImageButton Source="setabaixo.png" WidthRequest="15" HeightRequest="15" Margin="0,0,20,-5" Padding="0,0,0,0" />
+                </StackLayout>
+            </Frame>
+
+            <StackLayout Padding="10,0,10,0" >
+                <Grid BackgroundColor="White">
+                    <control:SfCalendar EnablePastDates="False"
+                                        > 
+                        
+                        
+                        <control:SfCalendar.HeaderView>
+                            <control:CalendarHeaderView ShowNavigationArrows="True"
+                                                    >
+
+                            </control:CalendarHeaderView>
+                        </control:SfCalendar.HeaderView>
+                        <control:SfCalendar.MonthView>
+                            <control:CalendarMonthView FirstDayOfWeek="Sunday"
+                                               NumberOfVisibleWeeks="5"
+                                                
+                                               >
+
+                            </control:CalendarMonthView>
+                        </control:SfCalendar.MonthView>
+                    </control:SfCalendar>
+                </Grid>
+
+
+
+            </StackLayout>
+            <Button Text="Continuar"
+                    x:Name="btnAgendar"
+                    Clicked="btnAgendar_Clicked"
+                    TextColor="Black"
+                    BackgroundColor="LightSteelBlue"
+                    FontSize="Medium"
+                    FontAttributes="Bold"
+                    CornerRadius="20"
+                    WidthRequest="200"
+                    VerticalOptions="EndAndExpand"
+                    Margin="170,0,0,20"
+                    />
+        </StackLayout>
+
+        
+
+    </Grid>
+
+</ContentPage>
